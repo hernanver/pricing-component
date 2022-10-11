@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](pricing-component-hv.netlify.app)
+- Live Site URL: [Solution](https://pricing-component-hv.netlify.app)
 
 ## My process
 
